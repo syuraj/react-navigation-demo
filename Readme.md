@@ -1,4 +1,9 @@
 ## react-navigation demo
+A basic demo of App with two bottom tabs
+
+
+## Latest screenshots
+<img src="assets/app-demo.gif" alt="drawing" height="400" />
 
 
 ## steps
