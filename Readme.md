@@ -9,5 +9,5 @@ A basic demo of App with two bottom tabs
 ## steps
 * Run `yarn add react-navigation`
 * Run `yarn add react-native-gesture-handler`
-* Run `react-native link react-native-gesture-handler` to link library. Required step
-
+* Run `yarn add react-native-vector-icons`
+* Run `react-native link` to link react-native-gesture-handler and react-native-vector-icons. Required step
